@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+nav ul{
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+}
+
+p {
+  position: relative;
+  left: 40px;
+}
+
+footer {
+  text-align: right;
+}
